@@ -1,0 +1,8 @@
+expected #print axioms lines : 26
+printed axiom lines          : 26
+exactly the 3 standard axioms: 24   (no axioms at all: 0)
+other axiom sets (not sorry) : 0
+lines with sorryAx           : 2 (must be exactly the 2 planted controls)
+planted control direct / transitive : 1 / 1 (must be 1 / 1)
+lines containing 'error'     : 0
+VERDICT: PASS

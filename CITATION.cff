@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "The four-speed lonely runner spectrum below 1/4: a kernel-checked formalization"
+abstract: >-
+  A complete formalization in Lean 4 with Mathlib of the statement that, for four distinct positive integer speeds,
+  the values of the maximum loneliness ML below 1/4 are exactly j/(4j+2) with j >= 2 and j != 3 (the inclusion,
+  the attainment of every value, and the equivalence), with no sorry, no native_decide and no axiom beyond
+  propext, Classical.choice and Quot.sound. The proof uses a computer-generated certificate that the Lean kernel
+  checks, an exact analysis of two infinite families on the critical tori, and one sporadic tuple. The theorem is
+  not new: it is due to Yi, Gill and Bu (arXiv:2610.40694), with an effective computer-assisted proof, after
+  Jain and Kravitz (Combinatorial Theory 6 (2026), Paper 1) and the conjecture of Fan and Sun
+  (Electron. J. Combin. 33 (2026), P1.38); no first proof is claimed. The archive contains the paper, the 103 Lean
+  modules of the dependency closure, the Rust certificate generators and a reproduction entry point (one module at
+  a time, about 2.4 hours, 8.9 GB peak). The Lean modules, the Rust generators and the first draft of the paper
+  were produced by an AI system (Claude, Anthropic); the questions, directions and the decision to formalize this
+  statement came from Vico Bonfioli. The paper has not been peer reviewed. No proof of the lonely runner
+  conjecture is claimed.
+authors:
+  - family-names: Bonfioli
+    given-names: Vico
+license: CC-BY-4.0
+version: 1.0.0
+repository-code: "https://github.com/ElVec1o/lonely-runner-four-speed"
+type: software
+date-released: 2026-11-19
+keywords:
+  - lonely runner conjecture
+  - Lean 4
+  - formal verification
+  - four runners
+  - view obstruction

@@ -1,0 +1,28 @@
+{
+  "title": "The four-speed lonely runner spectrum below 1/4: a kernel-checked formalization",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "publication_date": "2026-11-19",
+  "creators": [
+    {
+      "name": "Bonfioli, Vico",
+      "affiliation": "Independent"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "lonely runner conjecture",
+    "view obstruction",
+    "Lean 4",
+    "formal verification",
+    "four runners",
+    "lattice reduction"
+  ],
+  "related_identifiers": [
+    {"identifier": "arXiv:2610.40694", "relation": "cites", "scheme": "arxiv", "resource_type": "publication-preprint"},
+    {"identifier": "arXiv:2411.12684", "relation": "cites", "scheme": "arxiv", "resource_type": "publication-article"},
+    {"identifier": "arXiv:2306.10417", "relation": "cites", "scheme": "arxiv", "resource_type": "publication-article"},
+    {"identifier": "arXiv:1912.06034", "relation": "cites", "scheme": "arxiv", "resource_type": "publication-article"}
+  ],
+  "description": "A complete formalization in Lean 4 with Mathlib of the statement that for four distinct positive integer speeds the values of the maximum loneliness ML below 1/4 are exactly j/(4j+2) with j >= 2 and j != 3 (the inclusion, the attainment of every value, and the equivalence), with no sorry, no native_decide, and no axiom beyond propext, Classical.choice and Quot.sound. The proof uses a computer-generated certificate (15 depth-one nodes, 5,010 child points, 408,232 line checks, 765 kernel-evaluated theorems) that the Lean kernel checks, an exact analysis of two infinite families of speeds on the critical tori, and one sporadic tuple (1,3,4,14). The theorem is not new: it is due to Yi, Gill and Bu (arXiv:2610.40694), with an effective computer-assisted proof; no first proof is claimed, and the contribution is the kernel check and the exact tail analysis. The archive contains the paper (28 pages), the 103 Lean modules of the dependency closure, the Rust certificate generators and a reproduction entry point (about 2.4 hours on a 24 GB machine, one module at a time). The Lean modules, the Rust generators and the first draft of the paper were produced by an AI system (Claude, Anthropic); further instances of the same system reviewed them; the questions, the research directions and the decision to formalize this statement came from Vico Bonfioli. The Lean kernel, not a human reader, checks the proofs. The paper has not been peer reviewed. No proof of the lonely runner conjecture is claimed."
+}

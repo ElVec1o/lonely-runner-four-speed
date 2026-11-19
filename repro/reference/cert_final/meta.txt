@@ -1,0 +1,2 @@
+qmax 50
+nodes 15

@@ -1,0 +1,178 @@
+reachable constants: 40242
+== project modules reached (module: constants) ==
+LRSpectrumFull.DValue: 1
+LRSpectrumFull.L4S3.Accepted: 50
+LRSpectrumFull.L4S3.Discharge: 1
+LRSpectrumFull.L4S3.Dist: 11
+LRSpectrumFull.L4S3.FlagBasis: 44
+LRSpectrumFull.L4S3.GramQ: 20
+LRSpectrumFull.L4S3.GreedyAlg: 13
+LRSpectrumFull.L4S3.GreedyDim: 6
+LRSpectrumFull.L4S3.GreedyFinal: 6
+LRSpectrumFull.L4S3.GreedyFlip: 15
+LRSpectrumFull.L4S3.GreedyReduce: 4
+LRSpectrumFull.L4S3.GreedyStep: 13
+LRSpectrumFull.L4S3.Minors: 21
+LRSpectrumFull.L4S3.Ratio34: 10
+LRSpectrumFull.L4S3.Reduced34: 2
+LRSpectrumFull.L4S3.Skeleton: 27
+LRSpectrumFull.L4S4.Chain: 20
+LRSpectrumFull.L4S4.ChainRep: 25
+LRSpectrumFull.L4S4.Child4: 54
+LRSpectrumFull.L4S4.Dict: 28
+LRSpectrumFull.L4S4.EiBad: 7
+LRSpectrumFull.L4S4.Induct4: 11
+LRSpectrumFull.L4S4.Leaf4: 18
+LRSpectrumFull.L4S4.Link: 4
+LRSpectrumFull.L4S4.Prim: 11
+LRSpectrumFull.L4S4.Radius: 15
+LRSpectrumFull.L4S4.Records4: 39
+LRSpectrumFull.L4S4.Sym: 32
+LRSpectrumFull.L4S4.Time4: 2
+LRSpectrumFull.L4S4.Window: 2
+LRSpectrumFull.L4S5.AssembleB: 13
+LRSpectrumFull.L4S5.CheckT1: 22
+LRSpectrumFull.L4S5.ChunkAt: 1
+LRSpectrumFull.L4S5.Data: 4
+LRSpectrumFull.L4S5.Defs: 83
+LRSpectrumFull.L4S5.FinalSpectrum: 10
+LRSpectrumFull.L4S5.FourSpeed: 2
+LRSpectrumFull.L4S5.Lines: 12
+LRSpectrumFull.L4S5.LinesChunk: 10
+LRSpectrumFull.L4S5.LinesGlue: 3
+LRSpectrumFull.L4S5.LinesN0C0: 7
+LRSpectrumFull.L4S5.LinesN10C0: 51
+LRSpectrumFull.L4S5.LinesN12C0: 5
+LRSpectrumFull.L4S5.LinesN13C0: 7
+LRSpectrumFull.L4S5.LinesN14C0: 11
+LRSpectrumFull.L4S5.LinesN1C0: 217
+LRSpectrumFull.L4S5.LinesN1C1: 1
+LRSpectrumFull.L4S5.LinesN1C1p0: 108
+LRSpectrumFull.L4S5.LinesN1C1p1: 104
+LRSpectrumFull.L4S5.LinesN2C0: 5
+LRSpectrumFull.L4S5.LinesN3C0: 15
+LRSpectrumFull.L4S5.LinesN4C0: 1
+LRSpectrumFull.L4S5.LinesN4C0p0: 110
+LRSpectrumFull.L4S5.LinesN4C0p1: 110
+LRSpectrumFull.L4S5.LinesN4C0p2: 110
+LRSpectrumFull.L4S5.LinesN4C0p3: 90
+LRSpectrumFull.L4S5.LinesN4C1: 1
+LRSpectrumFull.L4S5.LinesN4C1p0: 110
+LRSpectrumFull.L4S5.LinesN4C1p1: 110
+LRSpectrumFull.L4S5.LinesN4C2: 1
+LRSpectrumFull.L4S5.LinesN4C2p0: 112
+LRSpectrumFull.L4S5.LinesN4C2p1: 110
+LRSpectrumFull.L4S5.LinesN4C3: 81
+LRSpectrumFull.L4S5.LinesN5C0: 7
+LRSpectrumFull.L4S5.LinesN6C0: 23
+LRSpectrumFull.L4S5.LinesN7C0: 33
+LRSpectrumFull.L4S5.LinesN9C0: 7
+LRSpectrumFull.L4S5.LinesSound: 34
+LRSpectrumFull.L4S5.NodeS0: 9
+LRSpectrumFull.L4S5.NodeS1: 36
+LRSpectrumFull.L4S5.NodeS10: 17
+LRSpectrumFull.L4S5.NodeS11: 9
+LRSpectrumFull.L4S5.NodeS12: 9
+LRSpectrumFull.L4S5.NodeS13: 9
+LRSpectrumFull.L4S5.NodeS14: 11
+LRSpectrumFull.L4S5.NodeS2: 9
+LRSpectrumFull.L4S5.NodeS3: 11
+LRSpectrumFull.L4S5.NodeS4: 66
+LRSpectrumFull.L4S5.NodeS5: 9
+LRSpectrumFull.L4S5.NodeS6: 11
+LRSpectrumFull.L4S5.NodeS7: 13
+LRSpectrumFull.L4S5.NodeS8: 9
+LRSpectrumFull.L4S5.NodeS9: 9
+LRSpectrumFull.L4S5.NodeSplit: 9
+LRSpectrumFull.L4Tail.FourTails: 13
+LRSpectrumFull.L4Tail.NormalForm: 41
+LRSpectrumFull.L4Tail.Sporadic: 8
+LRSpectrumFull.L4Tail.U1Exact: 16
+LRSpectrumFull.L4Tail.U1Lower: 49
+LRSpectrumFull.L4Tail.U2Exact: 76
+LRSpectrumFull.L4Tail.U2Lower: 14
+LRSpectrumFull.L4Tail.U2Occurs: 27
+LRSpectrumFull.L4Tail.U2Spectrum: 111
+LRSpectrumFull.L4Tail.U2Upper: 10
+LRSpectrumFull.L5S3.Babai: 6
+LRSpectrumFull.L5S3.LayerStep: 4
+LRSpectrumFull.L5S4.Bordered: 5
+LRSpectrumFull.L5S4.Compl: 8
+LRSpectrumFull.L5S4.IntForm: 14
+LRSpectrumFull.MaxLoneliness: 9
+LRSpectrumFull.NearestInteger: 8
+LRSpectrumFull.ObsCrystallographic: 2
+== pre-existing (base) modules: reached declarations ==
+-- LRSpectrumFull.NearestInteger: 8 declarations
+   LRSpectrumFull.nearestIntDist [def]
+   LRSpectrumFull.nearestIntDist_add_int [theorem]
+   LRSpectrumFull.nearestIntDist_ge [theorem]
+   LRSpectrumFull.nearestIntDist_intCast [theorem]
+   LRSpectrumFull.nearestIntDist_le_dist [theorem]
+   LRSpectrumFull.nearestIntDist_le_dist._proof_1_2 [theorem]
+   LRSpectrumFull.nearestIntDist_le_half [theorem]
+   LRSpectrumFull.nearestIntDist_neg [theorem]
+-- LRSpectrumFull.MaxLoneliness: 9 declarations
+   LRSpectrumFull.ML [def]
+   LRSpectrumFull.bddAbove_range_gap [theorem]
+   LRSpectrumFull.gap [def]
+   LRSpectrumFull.gap._proof_1 [theorem]
+   LRSpectrumFull.gap_le [theorem]
+   LRSpectrumFull.gap_le_half [theorem]
+   LRSpectrumFull.gap_le_half._simp_1_2 [theorem]
+   LRSpectrumFull.le_gap [theorem]
+   LRSpectrumFull.le_gap._simp_1_2 [theorem]
+-- LRSpectrumFull.ObsRootTorus: 0 declarations
+-- LRSpectrumFull.ObsCrystallographic: 2 declarations
+   LRSpectrumFull.ObsCrystallographic.nd_exists_nearest [theorem]
+   LRSpectrumFull.ObsCrystallographic.nd_le_add [theorem]
+-- LRSpectrumFull.L5S3.Babai: 6 declarations
+   LRSpectrumFull.L5S3.babai_exists_prefix [theorem]
+   LRSpectrumFull.L5S3.babai_exists_prefix._proof_1_1 [theorem]
+   LRSpectrumFull.L5S3.babai_exists_prefix._proof_1_2 [theorem]
+   LRSpectrumFull.L5S3.babai_round [theorem]
+   LRSpectrumFull.L5S3.babai_round._proof_1_1 [theorem]
+   LRSpectrumFull.L5S3.babai_round_D [theorem]
+-- LRSpectrumFull.L5S3.LayerStep: 4 declarations
+   LRSpectrumFull.L5S3.geom_sum_43 [theorem]
+   LRSpectrumFull.L5S3.node_constants [theorem]
+   LRSpectrumFull.L5S3.tail_geom [theorem]
+   LRSpectrumFull.L5S3.tail_sum [theorem]
+-- LRSpectrumFull.L5S4.Compl: 8 declarations
+   LRSpectrumFull.L5S4.compl_id [theorem]
+   LRSpectrumFull.L5S4.det_gram_compl [theorem]
+   LRSpectrumFull.L5S4.det_gram_ne_zero [theorem]
+   LRSpectrumFull.L5S4.det_mul_transpose_nonneg [theorem]
+   LRSpectrumFull.L5S4.det_sq_mul [theorem]
+   LRSpectrumFull.L5S4.sqC [def]
+   LRSpectrumFull.L5S4.sqR [def]
+   LRSpectrumFull.L5S4.sqR_mul_sqC [theorem]
+-- LRSpectrumFull.L5S4.Bordered: 5 declarations
+   LRSpectrumFull.L5S4.bordered_cs_Q [theorem]
+   LRSpectrumFull.L5S4.bordered_gram_Q [theorem]
+   LRSpectrumFull.L5S4.dot_BtB [theorem]
+   LRSpectrumFull.L5S4.projection_data [theorem]
+   LRSpectrumFull.L5S4.projection_data._abel_1_1 [theorem]
+-- LRSpectrumFull.L5S4.IntForm: 14 declarations
+   LRSpectrumFull.L5S4.borderGram [def]
+   LRSpectrumFull.L5S4.bordered_cs_Z [theorem]
+   LRSpectrumFull.L5S4.bordered_gram_Z [theorem]
+   LRSpectrumFull.L5S4.cq [def]
+   LRSpectrumFull.L5S4.cq_adjugate [theorem]
+   LRSpectrumFull.L5S4.cq_det [theorem]
+   LRSpectrumFull.L5S4.cq_dot [theorem]
+   LRSpectrumFull.L5S4.cq_fromRows [theorem]
+   LRSpectrumFull.L5S4.cq_mul [theorem]
+   LRSpectrumFull.L5S4.cq_mulVec [theorem]
+   LRSpectrumFull.L5S4.cq_one [theorem]
+   LRSpectrumFull.L5S4.cq_transpose [theorem]
+   LRSpectrumFull.L5S4.cq_zero [theorem]
+   LRSpectrumFull.L5S4.det_gram_pos_Z [theorem]
+-- LRSpectrumFull.DValue: 1 declarations
+   LRSpectrumFull.gap_le_ML [theorem]
+== non-project constants by root namespace (module root: constants) ==
+Aesop: 1
+Batteries: 177
+Init: 6725
+Mathlib: 30418
+Std: 1
