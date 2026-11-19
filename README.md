@@ -1,6 +1,7 @@
 # The four-speed lonely runner spectrum below 1/4: a kernel-checked formalization
 
 Repository: https://github.com/ElVec1o/lonely-runner-four-speed
+DOI: https://doi.org/10.5281/zenodo.24357910 (version 1.0.0); all versions: https://doi.org/10.5281/zenodo.24357909
 Version 1.0.0 (November 2026). Author: Vico Bonfioli. License: CC-BY-4.0 (`LICENSE.md`).
 Paper: `paper/main.pdf` (28 pages; source `paper/main.tex`). Not peer reviewed.
 
